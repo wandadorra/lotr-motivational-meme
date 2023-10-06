@@ -1,0 +1,29 @@
+* {
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    text-transform: uppercase;
+    font-size: 3rem;
+}
+
+h1, p {
+    text-align: center;
+}
+
+.poster {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 5%;
+    font-family: 'Libre Baskerville', serif;
+}
+
+.potatoes {
+    border: 5px solid white;
+    width: 100%;
+}
+
+p {
+    font-size: 1.25rem;
+}
